@@ -1,4 +1,4 @@
-# antihyip_games
+# antihyip_games alpha-0.1
 Цитата от BK782_User: 
 > «Хайп? НИ ЗА ЧТО!».
 # Что это?
